@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kinyozi App</string>
+    <string name="sign_up">sign_up</string>
+    <string name="don_t_have_an_account_sign_up">don_t_have_an_account_sign_up</string>
+    <string name="log_in">log_in</string>
+    <string name="username">username</string>
+    <string name="login">login</string>
+    <string name="don_t_have_an_account_sign_up_">don`t have an account? Sign up</string>
+    <string name="register">Register</string>
+    <string name="full_name">full_name</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="confirm_password">confirm_password</string>
+    <string name="confirm_password_">confirm password</string>
+    <string name="register_">Register</string>
+</resources>
